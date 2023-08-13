@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// import App from './App';
+import App from './App';
 import Nav from './Nav'
 import Model from './Model'
 import reportWebVitals from './reportWebVitals';
@@ -26,7 +26,7 @@ root.render(
     <Test/>
     <Tour/>
     <News/>
-    {/* <App /> */}
+    <App />
   </React.StrictMode>
 );
 
