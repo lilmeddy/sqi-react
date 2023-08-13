@@ -674,8 +674,36 @@ footer{
 }
 .fot,
 .quick{
-    width: 18%;
+    width: 15%;
     /* border: 1px solid red; */
     padding: 10px;
     height: 70%;
+}
+.fot h1{
+    color: blue;
+}
+.fot h1,
+.quick h1{
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.quick p{
+    margin-top: 20px;
+    line-height: 30px;
+}
+.fot small,
+.quick small{
+    color: blue;
+    font-weight: 600;
+    margin-top: 15px;
+}
+.foot{
+    background-color: rgb(2, 2, 92);
+    color: #fff;
+    padding: 10px;
+}
+.foot h1{
+    font-weight: 600;
+    padding-left: 40px;
 }

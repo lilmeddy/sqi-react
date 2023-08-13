@@ -6,7 +6,7 @@ function App() {
     <footer>
       <div className="fot">
         <h1>
-          Hello, we’re SQI College of ICT
+          Hello, we’re SQI <br /> College of ICT
         </h1>
         <p>We provide and lead others in quality ICT education.</p>
         <p>Send us a mail</p>
